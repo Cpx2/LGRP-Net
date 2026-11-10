@@ -1,0 +1,9 @@
+# Core dependencies imported by the provided training/evaluation code.
+# Confirm exact versions against the environment used for the paper experiments.
+torch
+torchvision
+numpy
+scikit-learn
+tqdm
+tensorboard
+Pillow
